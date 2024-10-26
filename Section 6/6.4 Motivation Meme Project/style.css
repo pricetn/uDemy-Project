@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-size: 3rem;
+  color:whitesmoke
+}
+
+p{
+  font-size: 20px;
+}
+
+.poster{
+  color:white;
+  width: 40%;
+  text-align: center;
+  font-family: Inter,sans-serif;
+  margin: 25%;
+  margin-top: 100px;
+}
+
+.motivation-img {
+  height: 300px;
+  border-radius: 8px;
+  border: 2px solid rgb(185, 184, 184);
+}
+
